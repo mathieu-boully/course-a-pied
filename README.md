@@ -1,3 +1,3 @@
-# running-performance
+# Running performance interactive dashboard
 
-**mathieu-boully**
+*mathieu-boully*
