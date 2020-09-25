@@ -14,6 +14,8 @@ Le jeu de données importé dans le code R est un fichier CSV de mes activités 
 
 Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 sorties de course à pied.
 
+![Données CSV](www/donnees_csv.png)
+
 ## Auteur
 
 Mathieu Boully, Étudiant en science des données à l'Université Toulouse Paul Sabatier :school:
