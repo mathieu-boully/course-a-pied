@@ -50,8 +50,10 @@ Mathieu Boully, Étudiant en science des données à l'Université Toulouse Paul
 
 ## Contact
 
-mathieu.boully@hotmail.com
+Mathieu.boully@hotmail.com
 
 Consultez [mes autres publications.](https://mathieu-boully.000webhostapp.com/sports-analysis/)
 
 [Linkedin.](https://www.linkedin.com/in/mathieu-boully-61b910175/)
+
+[Strava.](https://www.strava.com/)
