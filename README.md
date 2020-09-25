@@ -10,13 +10,13 @@
 
 📦 Les données sont issues de l'application [Garmin Connect.](https://connect.garmin.com/)
 
-![Données CSV](data/activites_garmin.csv)
+Le fichier de données source est disponible [ici !](data/activities_garmin.csv)
 
 Le jeu de données importé dans le code R est un fichier CSV de mes activités de course à pied associées à plusieurs variables comme la vitesse, la distance, la fréquence cardiaque, ... Les informations que regroupent ce fichier sont des données sur mes performances pour chacune de mes sorties. 1 ligne = 1 activité.
 
 Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 sorties de course à pied.
 
-![Données CSV](www/donnees_csv.png)
+![Aperçu des données](www/donnees_csv.png)
 
 ## Auteur
 
