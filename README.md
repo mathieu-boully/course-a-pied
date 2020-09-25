@@ -1,4 +1,4 @@
-## Permformance en course à pied
+## Performance en course à pied
 
 L'objectif de cette [application](https://mydata-mb.shinyapps.io/mathieu-boully-running/) est de pouvoir visualiser plusieurs indicateurs qui montrent le niveau de performance sur le plan physiologique et mécaniques (deux facteurs de la performance en course à pied).
 Je peux donc contrôler mes performances en analysant ma technique de course et ma dépense énergétique suivant plusieurs variables. On retrouve des indicateurs de performance, des visualisations graphiques, des calculs agrégés, des filtres dynamiques et une analyse factorielle afin de voir l’influence des variables entre elles.
@@ -28,6 +28,19 @@ Le jeu de données importé dans le code R est un fichier CSV de mes activités 
 Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 sorties de course à pied.
 
 ![Aperçu des données](www/donnees_csv.png)
+
+## Packages R
+
+- shiny
+- shinydashboard
+- plotly
+- ggplot2
+- plyr
+- dplyr
+- FactoMineR
+- factoextra
+- lubridate
+- tidyverse
 
 ## Auteur
 
