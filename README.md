@@ -1,7 +1,5 @@
 ## Performance en course à pied
 
-Suit ce lien pour accéder à l'aplication Shiny
-
 Cette page github contient le code et les données utilisées pour construire l'application suivante :
 
 L'objectif de cette [application](https://mydata-mb.shinyapps.io/mathieu-boully-running/) est de pouvoir visualiser plusieurs indicateurs qui montrent le niveau de performance sur le plan physiologique et mécaniques (deux facteurs de la performance en course à pied).
@@ -15,6 +13,8 @@ Je peux donc contrôler mes performances en analysant ma technique de course et 
 Pour mettre en application et synthétiser les données, j'ai utilisé le package [Shiny](https://shiny.rstudio.com/) disponible dans [RStudio.](https://rstudio.com/)
 
 Le package Shiny permet de créer des tableaux de bord dynamiques pour le web.
+
+L'application incluent des filtrent dynamiques avec des sélecteurs de dates et des slider input pour analyser segmenter les variables.
 
 ## Librairie Plotly
 
@@ -33,6 +33,7 @@ Le jeu de données importé dans le code R est un fichier CSV de mes activités 
 Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 sorties de course à pied.
 
 ![Aperçu des données](www/donnees_csv.png)
+*Aperçu du fichier CSV*
 
 ## Packages R
 
