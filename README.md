@@ -48,9 +48,9 @@ Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 
 
 Mathieu Boully, Étudiant en science des données à l'Université Toulouse Paul Sabatier :school:
 
-## Contact
+## Contact et réseaux
 
-Mathieu.boully@hotmail.com
+mathieu.boully@hotmail.com
 
 Consultez [mes autres publications.](https://mathieu-boully.000webhostapp.com/sports-analysis/)
 
