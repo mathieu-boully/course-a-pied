@@ -1,5 +1,3 @@
-@mathieu
-
 ## Performance en course à pied
 
 Cette page github contient le code et les données utilisées pour construire l'application suivante :
