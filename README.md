@@ -1,11 +1,14 @@
 ## Performance en course à pied
 
+Suit ce lien pour accéder à l'aplication Shiny
+
 Cette page github contient le code et les données utilisées pour construire l'application suivante :
 
 L'objectif de cette [application](https://mydata-mb.shinyapps.io/mathieu-boully-running/) est de pouvoir visualiser plusieurs indicateurs qui montrent le niveau de performance sur le plan physiologique et mécaniques (deux facteurs de la performance en course à pied).
 Je peux donc contrôler mes performances en analysant ma technique de course et ma dépense énergétique suivant plusieurs variables. On retrouve des indicateurs de performance, des visualisations graphiques, des calculs agrégés, des filtres dynamiques et une analyse factorielle afin de voir l’influence des variables entre elles.
 
 ![Aperçu de l'application RShiny](www/application.png)
+*Capture d'écran de l'app !*
 
 ## Interface Shiny
 
