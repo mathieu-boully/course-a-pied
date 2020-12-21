@@ -1,7 +1,5 @@
 ## Performance en course à pied
 
-Cette page github contient le code et les données utilisées pour construire l'application suivante :
-
 L'objectif de cette [application](https://mydata-mb.shinyapps.io/mathieu-boully-running/) est de pouvoir visualiser plusieurs indicateurs qui montrent le niveau de performance sur le plan physiologique et mécaniques (deux facteurs de la performance en course à pied).
 Je peux donc contrôler mes performances en analysant ma technique de course et ma dépense énergétique suivant plusieurs variables. On retrouve des indicateurs de performance, des visualisations graphiques, des calculs agrégés, des filtres dynamiques et une analyse factorielle afin de voir l’influence des variables entre elles.
 
@@ -30,7 +28,7 @@ Le fichier de données source est disponible [ici !](data/activities_garmin.csv)
 
 Le jeu de données importé dans le code R est un fichier CSV de mes activités de course à pied associées à plusieurs variables comme la vitesse, la distance, la fréquence cardiaque, ... Les informations que regroupent ce fichier sont des données sur mes performances pour chacune de mes sorties. 1 ligne = 1 activité.
 
-Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 sorties de course à pied.
+Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 actvités de course à pied.
 
 ![Aperçu des données](www/donnees_csv.png)
 *Aperçu du fichier CSV*
@@ -54,10 +52,8 @@ Mathieu Boully, Étudiant en science des données à l'Université Toulouse Paul
 
 ## Contact et réseaux
 
-mathieu.boully@hotmail.com
+Mathieu.boully@hotmail.com
 
 Consultez [mes autres publications.](https://mathieu-boully.000webhostapp.com/sports-analysis/)
 
 [Linkedin.](https://www.linkedin.com/in/mathieu-boully-61b910175/)
-
-[Strava.](https://www.strava.com/)
