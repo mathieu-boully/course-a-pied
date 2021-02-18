@@ -33,7 +33,7 @@ Le fichier regroupe 30 variables qualitatives et quantitatives avec plus de 100 
 ![Aperçu des données](www/donnees_csv.png)
 *Aperçu du fichier CSV*
 
-## Packages R
+## Paquetages R
 
 - shiny
 - shinydashboard
